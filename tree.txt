@@ -9,6 +9,7 @@
 │   └── preproc_session01.mat
 ├── preprocess.m
 ├── README.md
+├── run_full_analysis.m
 ├── scripts
 │   ├── convert_binary_to_mat.m
 │   ├── convert_csv_to_mat.m
@@ -25,6 +26,7 @@
 │   ├── mcg_epoch_average.m
 │   ├── mcg_io_load.m
 │   └── mcg_utils.m
+├── textbook.pdf
 └── tree.txt
 
-6 directories, 22 files
+6 directories, 24 files
